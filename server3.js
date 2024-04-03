@@ -49,4 +49,5 @@ const server=http.createServer((req,res)=>{
 
 server.listen(porta,host,()=>{
     console.log("Servidor iniciado");
-})
+    console.log("nois é fera")
+}) 
